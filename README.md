@@ -1,4 +1,4 @@
-![coverImage](images/cover-image-transparent-1.png)
+![coverImage](images/cover-image-gif-1.gif)
 
 <!--
 **Sudarshan-r-bhat/Sudarshan-r-bhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
